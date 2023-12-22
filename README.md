@@ -27,6 +27,8 @@ Email: samuel.hollman@hotmail.com
 
 Phone: +358 40 6797988
 
+Portfolio: https://samuelhallman.github.io/SamuelHallmanPortfolio/
+
 Let's connect, collaborate, and build something extraordinary together! 🚀
 
 Old GitHub account: https://github.com/SamuelHallman
