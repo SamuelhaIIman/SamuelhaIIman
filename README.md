@@ -23,8 +23,9 @@ My journey has been diverse—I transitioned from being a non-commissioned offic
 
 📱 Connect with Me
 
- Email: samuel.hollman@hotmail.com
- Phone: +358 40 6797988
+Email: samuel.hollman@hotmail.com
+
+Phone: +358 40 6797988
 
 Let's connect, collaborate, and build something extraordinary together! 🚀
 
