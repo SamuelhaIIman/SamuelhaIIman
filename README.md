@@ -23,8 +23,9 @@ My journey has been diverse—I transitioned from being a non-commissioned offic
 
 📱 Connect with Me
 
- GitHub: https://github.com/SamuelHallman
  Email: samuel.hollman@hotmail.com
  Phone: +358 40 6797988
 
 Let's connect, collaborate, and build something extraordinary together! 🚀
+
+Old GitHub account: https://github.com/SamuelHallman
