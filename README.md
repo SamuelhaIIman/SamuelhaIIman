@@ -2,7 +2,7 @@
 
 Hi there! I'm Samuel Hållman, a third-year student on a mission to merge business and technology. I am currently pursuing a Bachelor's Degree in Business Information Technology with a specialization in data processing at LAB University of Applied Sciences in Lahti.
 
-Academic Journey
+## Academic Journey
 
 In the dynamic world of web development, I've cultivated a robust foundation, navigating the realms of JavaScript, TypeScript, React, Angular, C#, C++, Java, and MySQL. My coursework supports my hands-on experience as a team leader, steering a school project to create two games for children using JavaScript and TypeScript. This endeavor not only fine-tuned my coding skills but also imparted invaluable insights into project management and leadership dynamics.
 
