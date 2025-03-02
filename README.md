@@ -8,17 +8,14 @@ Throughout my studies, I built a strong programming and web development foundati
 
 ## Core Skills
 
-Programming Languages: JavaScript, Python, TypeScript, C#, Java, SQL
-
-Frontend Frameworks: React, Angular
-
-Web Hosting: WordPress, Wix, Planeetta Oy
-
-Databases: MySQL, XAMPP
-
-Languages: Finnish (Native), English (Fluent)
-
-Other Skills: SEO, website accessibility, agile methodologies (Kanban)
+Programming Languages: C#, Java, JavaScript, TypeScript, SQL, Node.js, Python, EJS
+Frontend: React, Angular, HTML, CSS, Tailwind CSS
+Web Platforms: WordPress, Wix, Planeetta Oy
+Databases: MySQL, MongoDB
+Development Tools: XAMPP, Git, GitHub
+Development Practices: Agile methodologies (Kanban), teamwork
+Other Skills: SEO, accessibility, website optimization
+Languages: Finnish (native), English (fluent), Swedish (official proficiency), German (satisfactory), Indonesian (beginner)
 
 ## Recent Projects
 1. Website Optimization for ARKHALTIA Oy
