@@ -20,6 +20,8 @@ Throughout my studies, I built a strong programming and web development foundati
 
 - Databases: MySQL, MongoDB
 
+- Cloud & DevOps: AWS (RDS, EC2)
+
 - Development Tools: XAMPP, Git, GitHub
 
 - Development Practices: Agile methodologies (Kanban), teamwork
