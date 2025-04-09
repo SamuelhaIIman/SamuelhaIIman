@@ -70,6 +70,8 @@ Email: samuel.hollman@hotmail.com
 
 Phone: +358 40 6797988
 
+Portfolio: https://samuelhaiiman.github.io/portfolio/
+
 Let's connect, collaborate, and build something extraordinary together!
 
 
