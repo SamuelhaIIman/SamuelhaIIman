@@ -66,11 +66,11 @@ My journey started as a non-commissioned officer in the army, where I mastered l
 
 ## Connect with Me
 
-Email: samuel.hollman@hotmail.com
+- Email: samuel.hollman@hotmail.com
 
-Phone: +358 40 6797988
+- Phone: +358 40 6797988
 
-Portfolio: https://samuelhaiiman.github.io/portfolio/
+- Portfolio: https://samuelhaiiman.github.io/portfolio/
 
 Let's connect, collaborate, and build something extraordinary together!
 
