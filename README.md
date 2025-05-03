@@ -1,77 +1,90 @@
-## About Me
+#  Hi, I'm Samuel Hållman
 
-Hi there! I'm Samuel Hållman, a recent graduate with a Bachelor's Degree in Business Information Technology from LAB University of Applied Sciences, Lahti. With a passion for merging business and technology, I specialize in web development, software developing, and creating user-friendly digital experiences.
-
----
-
-## Academic Journey
-
-Throughout my studies, I built a strong programming and web development foundation, gaining hands-on experience with modern technologies such as C#, Java, JavaScript, TypeScript, React, and Angular. My coursework and projects allowed me to explore agile methodologies and collaborative development, culminating in a thesis on the impact of Artificial Intelligence on architecture, conducted for ARKHALTIA Oy.
+I'm a developer who bridges the gap between technology and business. With a Bachelor's in Business Information Technology from LAB University of Applied Sciences and hands-on experience across a range of modern technologies, I build performant, user-centric web solutions that drive real business value.
 
 ---
 
-## Core Skills
+##  About Me
 
-- Programming Languages: C#, Java, JavaScript, TypeScript, SQL, Node.js, Python, EJS
-
-- Frontend: React, Angular, HTML, CSS, Tailwind CSS
-
-- Web Platforms: WordPress, Wix, Planeetta Oy
-
-- Databases: MySQL, MongoDB
-
-- Cloud & DevOps: AWS (RDS, EC2)
-
-- Development Tools: XAMPP, Git, GitHub
-
-- Development Practices: Agile methodologies (Kanban), teamwork
-
-- Other Skills: SEO, accessibility, website optimization
-
-- Languages: Finnish (native), English (fluent), Swedish (official proficiency), German (satisfactory), Indonesian (beginner)
+I bring together technical skills, business understanding, and strong communication to develop web applications and digital experiences that are clean, efficient, and easy to use. I’m particularly passionate about frontend frameworks, performance optimization, and creating accessible digital spaces.
 
 ---
 
-## Recent Projects
-1. ARKHALTIA Oy (01/2024 – 03/2024)
+##  Academic Background
 
-    - Optimized the performance and SEO visibility of a WordPress site. Improved loading speed from 5 seconds to 1 second.
-    - Improved the site's Google ranking from position 7 to position 2 for the keyword "arkkitehtitoimisto Kouvola", increasing client visibility and customer base.
-    - Enhanced accessibility and user experience. Client received positive feedback on the clarity of the website.
-    - Managed project scheduling and client communication. Weekly meetings ensured efficient collaboration and improved results.
+My academic career focused on the intersection of business and technology, with deep dives into programming, web development, and agile teamwork. Highlights include:
 
-2. Lauran Jalkahoitola (11/2023)
-
-    - Designed and developed a website on the Wix platform. The client previously had no website, leading to a 50% increase in customer traffic.
-    - Optimized usability and customer journey for a small business. Negotiation skills were key in aligning the result with client needs and modern web standards.
-
-3. Jalkahoitola Askel (05/2023 – 07/2023)
-
-    - Improved website usability and navigation by adding images and simplifying the structure for easier access to information.
-    - Worked closely with the client to optimize the website’s design, ensuring better support for their business and improved customer focus.
-  
----
-
-## Professional Experience
-
-As a freelance web developer, I’ve delivered high-quality, client-focused website solutions. My experience spans various industries, from health services to architecture, showcasing adaptability and a client-centric approach.
+- Developed projects in **C#**, **Java**, **JavaScript**, **TypeScript**, **React**, and **Angular**
+- Embraced agile practices like **Kanban** and **iterative development**
+- Authored a thesis on **AI’s influence on architectural workflows**, in collaboration with ARKHALTIA Oy
 
 ---
 
-## Beyond the Code
+##  Core Skills
 
-My journey started as a non-commissioned officer in the army, where I mastered leadership and communication—skills I now apply in project management and team collaboration. When I'm not coding, I enjoy exploring the latest advancements in Artificial Intelligence.
+**Languages:**  
+`C#`, `Java`, `JavaScript`, `TypeScript`, `Python`, `SQL`, `Node.js`, `EJS`
+
+**Frontend:**  
+`React`, `Angular`, `HTML`, `CSS`, `Tailwind CSS`
+
+**Backend & Platforms:**  
+`MySQL`, `MongoDB`, `XAMPP`, `Node.js`, `AWS (RDS, EC2)`
+
+**CMS & Web Platforms:**  
+`WordPress`, `Wix`, `Planeetta Oy`
+
+**Tools & Practices:**  
+`Git`, `GitHub`, Agile methodologies (Kanban), cross-functional team collaboration
+
+**Other Expertise:**  
+`SEO`, `Website Performance Optimization`, `Accessibility`, `UX Improvements`
+
+**Languages Spoken:**  
+🇫🇮 Finnish (Native) • 🇬🇧 English (Fluent) • 🇸🇪 Swedish (Official) • 🇩🇪 German (Satisfactory) • 🇮🇩 Indonesian (Beginner)
 
 ---
 
-## Connect with Me
+##  Selected Projects
 
-- Email: samuel.hollman@hotmail.com
+### **ARKHALTIA Oy** (01/2024 – 03/2024)  
+*WordPress Performance & SEO Optimization*
+- Reduced page load times from **5s → 1s**, dramatically improving UX  
+- Boosted SEO ranking from **#7 → #2** for “arkkitehtitoimisto Kouvola”  
+- Led client communication and project timelines with weekly agile-style check-ins  
+- Enhanced accessibility and responsiveness, resulting in positive client feedback
 
-- Phone: +358 40 6797988
+### **Lauran Jalkahoitola** (11/2023)  
+*Wix Website Development from Scratch*
+- Built a responsive and SEO-optimized site for a local small business  
+- Helped drive **50% more customer traffic** after launch  
+- Prioritized user journey and mobile-first design principles
 
-- Portfolio: https://samuelhaiiman.github.io/portfolio/
+### **Jalkahoitola Askel** (05/2023 – 07/2023)  
+*Usability & Visual Enhancements*
+- Restructured navigation and visuals for better clarity and engagement  
+- Delivered tangible business results by enhancing online visibility and brand feel
 
-Let's connect, collaborate, and build something extraordinary together!
+---
 
+##  Freelance Work
 
+As an independent developer, I’ve delivered end-to-end solutions tailored to client needs—whether it’s launching a new site, optimizing an existing one, or improving SEO and user experience. My work spans industries from architecture to wellness, always with a focus on tangible outcomes and clear communication.
+
+---
+
+##  What Drives Me
+
+Before software, I served as a **non-commissioned officer in the Finnish Army**. Leadership, discipline, and clear communication became part of my DNA—skills I now bring to every project and team I join.
+
+Outside of work, I’m actively exploring how **AI is reshaping design and development**, blending curiosity with practical research.
+
+---
+
+##  Let’s Connect
+
+-  **Email:** [samuel.hollman@hotmail.com](mailto:samuel.hollman@hotmail.com)  
+-  **Phone:** +358 40 6797988  
+-  **Portfolio:** [samuelhaiiman.github.io/portfolio](https://samuelhaiiman.github.io/portfolio/)
+
+> Whether you're building a product, solving a problem, or just want to talk tech—I’d love to hear from you.
