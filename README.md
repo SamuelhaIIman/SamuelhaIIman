@@ -69,7 +69,7 @@ My academic career focused on the intersection of business and technology, with 
 
 ##  Freelance Work
 
-As an independent developer, I’ve delivered end-to-end solutions tailored to client needs—whether it’s launching a new site, optimizing an existing one, or improving SEO and user experience. My work spans industries from architecture to wellness, always with a focus on tangible outcomes and clear communication.
+As an independent developer, I’ve delivered end-to-end solutions tailored to client needs launching a new site, optimizing an existing one, or improving SEO and user experience. My work spans industries from architecture to wellness, always with a focus on tangible outcomes and clear communication.
 
 ---
 
@@ -87,4 +87,4 @@ Outside of work, I’m actively exploring how **AI is reshaping design and devel
 -  **Phone:** +358 40 6797988  
 -  **Portfolio:** [samuelhaiiman.github.io/portfolio](https://samuelhaiiman.github.io/portfolio/)
 
-> Whether you're building a product, solving a problem, or just want to talk tech—I’d love to hear from you.
+> Whether you're building a product, solving a problem, or just want to talk tech, I’d love to hear from you.
