@@ -1,22 +1,24 @@
 #  Hi, I'm Samuel Hållman
 
-I'm a developer who bridges the gap between technology and business. With a Bachelor's in Business Information Technology from LAB University of Applied Sciences and hands-on experience across a range of modern technologies, I build performant, user-centric web solutions that drive real business value.
+## Work experience 
+ 
+### **ARKHALTIA Oy** (01/2024 – 12/2024)  
+*WordPress Performance & SEO Optimization*
+- Reduced page load times from **5s → 1s**, dramatically improving UX  
+- Boosted SEO ranking from **#7 → #2** for “arkkitehtitoimisto Kouvola”  
+- Led client communication and project timelines with weekly agile-style check-ins  
+- Enhanced accessibility and responsiveness, resulting in positive client feedback
 
----
+### **Lauran Jalkahoitola** (11/2023)  
+*Wix Website Development from Scratch*
+- Built a responsive and SEO-optimized site for a local small business  
+- Helped drive **50% more customer traffic** after launch  
+- Prioritized user journey and mobile-first design principles
 
-##  About Me
-
-I bring together technical skills, business understanding, and strong communication to develop web applications and digital experiences that are clean, efficient, and easy to use. I’m particularly passionate about frontend frameworks, performance optimization, and creating accessible digital spaces.
-
----
-
-##  Academic Background
-
-My academic career focused on the intersection of business and technology, with deep dives into programming, web development, and agile teamwork. Highlights include:
-
-- Developed projects in **C#**, **Java**, **JavaScript**, **TypeScript**, **React**, and **Angular**
-- Embraced agile practices like **Kanban** and **iterative development**
-- Authored a thesis on **AI’s influence on architectural workflows**, in collaboration with ARKHALTIA Oy
+### **Jalkahoitola Askel** (05/2023 – 07/2023)  
+*Usability & Visual Enhancements*
+- Restructured navigation and visuals for better clarity and engagement  
+- Delivered tangible business results by enhancing online visibility and brand feel
 
 ---
 
@@ -41,35 +43,23 @@ My academic career focused on the intersection of business and technology, with 
 `SEO`, `Website Performance Optimization`, `Accessibility`, `UX Improvements`
 
 **Languages Spoken:**  
-🇫🇮 Finnish (Native) • 🇬🇧 English (Fluent) • 🇸🇪 Swedish (Official) • 🇩🇪 German (Satisfactory) • 🇮🇩 Indonesian (Beginner)
+🇫🇮 Finnish (Native) • 🇬🇧 English (C1) • 🇸🇪 Swedish (B1) • 🇩🇪 German (A2) • 🇮🇩 Indonesian (A1)
 
 ---
 
-##  Selected Projects
+##  About Me
 
-### **ARKHALTIA Oy** (01/2024 – 03/2024)  
-*WordPress Performance & SEO Optimization*
-- Reduced page load times from **5s → 1s**, dramatically improving UX  
-- Boosted SEO ranking from **#7 → #2** for “arkkitehtitoimisto Kouvola”  
-- Led client communication and project timelines with weekly agile-style check-ins  
-- Enhanced accessibility and responsiveness, resulting in positive client feedback
-
-### **Lauran Jalkahoitola** (11/2023)  
-*Wix Website Development from Scratch*
-- Built a responsive and SEO-optimized site for a local small business  
-- Helped drive **50% more customer traffic** after launch  
-- Prioritized user journey and mobile-first design principles
-
-### **Jalkahoitola Askel** (05/2023 – 07/2023)  
-*Usability & Visual Enhancements*
-- Restructured navigation and visuals for better clarity and engagement  
-- Delivered tangible business results by enhancing online visibility and brand feel
+I bring together technical skills, business understanding, and strong communication to develop web applications and digital experiences that are clean, efficient, and easy to use. I’m particularly passionate about frameworks, performance optimization, and creating accessible digital spaces.
 
 ---
 
-##  Freelance Work
+##  Academic Background
 
-As an independent developer, I’ve delivered end-to-end solutions tailored to client needs launching a new site, optimizing an existing one, or improving SEO and user experience. My work spans industries from architecture to wellness, always with a focus on tangible outcomes and clear communication.
+My academic career focused on the intersection of business and technology, with deep dives into programming, web development, and agile teamwork. Highlights include:
+
+- Developed projects in **C#**, **Java**, **JavaScript**, **TypeScript**, **React**, and **Angular**
+- Embraced agile practices like **Kanban** and **iterative development**
+- Authored a thesis on **AI’s influence on architectural workflows**, in collaboration with ARKHALTIA Oy
 
 ---
 
@@ -87,4 +77,3 @@ Outside of work, I’m actively exploring how **AI is reshaping design and devel
 -  **Phone:** +358 40 6797988  
 -  **Portfolio:** [samuelhaiiman.github.io/portfolio](https://samuelhaiiman.github.io/portfolio/)
 
-> Whether you're building a product, solving a problem, or just want to talk tech, I’d love to hear from you.
