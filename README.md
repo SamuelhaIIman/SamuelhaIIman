@@ -4,8 +4,8 @@
  
 ### **ARKHALTIA Oy** (01/2024 – 12/2024)  
 *WordPress Performance & SEO Optimization*
-- Reduced page load times from **5s → 1s**, dramatically improving UX  
-- Boosted SEO ranking from **#7 → #2** for “arkkitehtitoimisto Kouvola”  
+- Reduced page load times from **5s → 1s**, dramatically improving load time  
+- Boosted SEO ranking to first place with at least **three search words**
 - Led client communication and project timelines with weekly agile-style check-ins  
 - Enhanced accessibility and responsiveness, resulting in positive client feedback
 
@@ -39,9 +39,6 @@
 **Tools & Practices:**  
 `Git`, `GitHub`, Agile methodologies (Kanban), cross-functional team collaboration
 
-**Other Expertise:**  
-`SEO`, `Website Performance Optimization`, `Accessibility`, `UX Improvements`
-
 **Languages Spoken:**  
 🇫🇮 Finnish (Native) • 🇬🇧 English (C1) • 🇸🇪 Swedish (B1) • 🇩🇪 German (A2) • 🇮🇩 Indonesian (A1)
 
@@ -55,19 +52,13 @@ I bring together technical skills, business understanding, and strong communicat
 
 ##  Academic Background
 
-My academic career focused on the intersection of business and technology, with deep dives into programming, web development, and agile teamwork. Highlights include:
-
-- Developed projects in **C#**, **Java**, **JavaScript**, **TypeScript**, **React**, and **Angular**
-- Embraced agile practices like **Kanban** and **iterative development**
-- Authored a thesis on **AI’s influence on architectural workflows**, in collaboration with ARKHALTIA Oy
+My academic career focused on the intersection of business and technology, with deep dives into programming, web development, and agile teamwork.
 
 ---
 
-##  What Drives Me
+##  Projects
 
-Before software, I served as a **non-commissioned officer in the Finnish Army**. Leadership, discipline, and clear communication became part of my DNA—skills I now bring to every project and team I join.
-
-Outside of work, I’m actively exploring how **AI is reshaping design and development**, blending curiosity with practical research.
+On my free time I'm developing a program that helps consumers save money in Finland. My goal is to learn to build a big program which utilizes data scraping, database, and user-friendly front-end.
 
 ---
 
