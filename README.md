@@ -44,15 +44,15 @@
 
 ---
 
-##  About Me
-
-I bring together technical skills, business understanding, and strong communication to develop web applications and digital experiences that are clean, efficient, and easy to use. I’m particularly passionate about frameworks, performance optimization, and creating accessible digital spaces.
-
----
-
 ##  Academic Background
 
 My academic career focused on the intersection of business and technology, with deep dives into programming, web development, and agile teamwork.
+
+---
+
+##  About Me
+
+I bring together technical skills, business understanding, and strong communication to develop web applications and digital experiences that are clean, efficient, and easy to use. I’m particularly passionate about frameworks, performance optimization, and creating accessible digital spaces.
 
 ---
 
